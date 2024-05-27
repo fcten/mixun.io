@@ -3,16 +3,16 @@
 layout: home
 
 hero:
-  name: "Mixun"
-  text: "Discover the Beauty of the World"
+  name: "觅寻"
+  text: "发现世间的美好"
   tagline: My great project tagline
   actions:
     - theme: brand
       text: Markdown Examples
-      link: /markdown-examples
+      link: /zh-cn/markdown-examples
     - theme: alt
       text: API Examples
-      link: /api-examples
+      link: /zh-cn/api-examples
 
 features:
   - title: Feature A
