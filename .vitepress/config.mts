@@ -5,7 +5,13 @@ export default defineConfig({
   title: "觅寻",
   description: "得来全不费功夫",
   themeConfig: {
-    // https://vitepress.dev/reference/default-theme-config
+    logo: {
+      light: 'images/logo.light.svg',
+      dark: 'images/logo.dark.svg',
+      alt:  '觅寻'
+    },
+    siteTitle: false,
+
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Examples', link: '/markdown-examples' }
