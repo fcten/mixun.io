@@ -6,8 +6,8 @@ export default defineConfig({
   description: "得来全不费功夫",
   themeConfig: {
     logo: {
-      light: 'images/logo.light.svg',
-      dark: 'images/logo.dark.svg',
+      light: '/images/logo.light.svg',
+      dark: '/images/logo.dark.svg',
       alt:  '觅寻'
     },
     siteTitle: false,
